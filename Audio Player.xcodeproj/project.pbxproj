@@ -12,6 +12,7 @@
 		0AC6AE631ED52FEC0041C7FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC6AE611ED52FEC0041C7FD /* Main.storyboard */; };
 		0AC6AE651ED52FEC0041C7FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AC6AE641ED52FEC0041C7FD /* Assets.xcassets */; };
 		0AC6AE681ED52FEC0041C7FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC6AE661ED52FEC0041C7FD /* LaunchScreen.storyboard */; };
+		0AC6AE701ED5311E0041C7FD /* sheep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AC6AE6F1ED5311E0041C7FD /* sheep.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0AC6AE641ED52FEC0041C7FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AC6AE671ED52FEC0041C7FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AC6AE691ED52FEC0041C7FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AC6AE6F1ED5311E0041C7FD /* sheep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sheep.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0AC6AE5D1ED52FEC0041C7FD /* AppDelegate.swift */,
 				0AC6AE5F1ED52FEC0041C7FD /* ViewController.swift */,
 				0AC6AE611ED52FEC0041C7FD /* Main.storyboard */,
+				0AC6AE6F1ED5311E0041C7FD /* sheep.mp3 */,
 				0AC6AE641ED52FEC0041C7FD /* Assets.xcassets */,
 				0AC6AE661ED52FEC0041C7FD /* LaunchScreen.storyboard */,
 				0AC6AE691ED52FEC0041C7FD /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AC6AE701ED5311E0041C7FD /* sheep.mp3 in Resources */,
 				0AC6AE681ED52FEC0041C7FD /* LaunchScreen.storyboard in Resources */,
 				0AC6AE651ED52FEC0041C7FD /* Assets.xcassets in Resources */,
 				0AC6AE631ED52FEC0041C7FD /* Main.storyboard in Resources */,
